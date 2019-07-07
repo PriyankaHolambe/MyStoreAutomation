@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30518" started-at="2019-07-06T13:23:21Z" finished-at="2019-07-06T13:23:51Z">
+  <suite name="Default suite" duration-ms="45842" started-at="2019-07-07T14:31:31Z" finished-at="2019-07-07T14:32:17Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30518" started-at="2019-07-06T13:23:21Z" finished-at="2019-07-06T13:23:51Z">
+    <test name="Default test" duration-ms="45842" started-at="2019-07-07T14:31:31Z" finished-at="2019-07-07T14:32:17Z">
       <class name="newstorepckg.ProjectStore">
-        <test-method status="PASS" signature="TC_01()[pri:0, instance:newstorepckg.ProjectStore@12cdcf4]" name="TC_01" duration-ms="30486" started-at="2019-07-06T13:23:21Z" finished-at="2019-07-06T13:23:51Z">
+        <test-method status="PASS" signature="TC_01()[pri:0, instance:newstorepckg.ProjectStore@12cdcf4]" name="TC_01" duration-ms="14867" started-at="2019-07-07T14:31:31Z" finished-at="2019-07-07T14:31:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_01 -->
+        <test-method status="PASS" signature="TC_02()[pri:0, instance:newstorepckg.ProjectStore@12cdcf4]" name="TC_02" duration-ms="30943" started-at="2019-07-07T14:31:46Z" finished-at="2019-07-07T14:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
       </class> <!-- newstorepckg.ProjectStore -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

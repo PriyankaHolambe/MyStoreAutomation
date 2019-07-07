@@ -5,7 +5,7 @@
     <classes>
       <class name="newstorepckg.ProjectStore">
         <methods>
-          <include name="main"/>
+          <include name="TC_02"/>
         </methods>
       </class> <!-- newstorepckg.ProjectStore -->
     </classes>
